@@ -1,0 +1,12 @@
+C:\Users\Vadim\StepIT\Diplom\Beckend\PetCare.Domain\bin\Debug\net9.0\PetCare.Domain.deps.json
+C:\Users\Vadim\StepIT\Diplom\Beckend\PetCare.Domain\bin\Debug\net9.0\PetCare.Domain.dll
+C:\Users\Vadim\StepIT\Diplom\Beckend\PetCare.Domain\bin\Debug\net9.0\PetCare.Domain.pdb
+C:\Users\Vadim\StepIT\Diplom\Beckend\PetCare.Domain\obj\Debug\net9.0\PetCare.Domain.csproj.AssemblyReference.cache
+C:\Users\Vadim\StepIT\Diplom\Beckend\PetCare.Domain\obj\Debug\net9.0\PetCare.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vadim\StepIT\Diplom\Beckend\PetCare.Domain\obj\Debug\net9.0\PetCare.Domain.AssemblyInfoInputs.cache
+C:\Users\Vadim\StepIT\Diplom\Beckend\PetCare.Domain\obj\Debug\net9.0\PetCare.Domain.AssemblyInfo.cs
+C:\Users\Vadim\StepIT\Diplom\Beckend\PetCare.Domain\obj\Debug\net9.0\PetCare.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\StepIT\Diplom\Beckend\PetCare.Domain\obj\Debug\net9.0\PetCare.Domain.dll
+C:\Users\Vadim\StepIT\Diplom\Beckend\PetCare.Domain\obj\Debug\net9.0\refint\PetCare.Domain.dll
+C:\Users\Vadim\StepIT\Diplom\Beckend\PetCare.Domain\obj\Debug\net9.0\PetCare.Domain.pdb
+C:\Users\Vadim\StepIT\Diplom\Beckend\PetCare.Domain\obj\Debug\net9.0\ref\PetCare.Domain.dll
